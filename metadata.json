@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Dental Clinic",
+  "description": "Premium dental clinic website for Infinity Dental Clinic, Indore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
