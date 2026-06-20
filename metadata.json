@@ -1,6 +1,6 @@
 {
-  "name": "Infinity Dental Clinic",
-  "description": "Premium dental clinic website for Infinity Dental Clinic, Indore.",
+  "name": "Dr. Annu’s Dental Care",
+  "description": "Dr. Annu’s Dental Care provides expert dental treatments including root canal treatment, dental implants, teeth whitening, braces, cosmetic dentistry, and general dental care in Gwalior.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
